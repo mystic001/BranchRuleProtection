@@ -40,6 +40,6 @@ Branch protection rules help teams:
 
 Please read our contributing guidelines and ensure you follow the protected branch workflow when submitting changes.
 
-## License
+## License change on dev 
 
 This project is licensed under the MIT License - see the LICENSE file for details.
